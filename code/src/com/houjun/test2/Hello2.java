@@ -5,4 +5,5 @@ package com.houjun.test2;
  * @date 2021-11-28 19:50
  */
 public class Hello2 {
+    private String bejing;
 }
