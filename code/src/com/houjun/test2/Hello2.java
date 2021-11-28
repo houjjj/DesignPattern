@@ -6,4 +6,5 @@ package com.houjun.test2;
  */
 public class Hello2 {
     private String username;
+    private String password;
 }
