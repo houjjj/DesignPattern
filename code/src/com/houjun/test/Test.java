@@ -6,5 +6,5 @@ package com.houjun.test;
  */
 public class Test {
 
-
+    private String hello;
 }
