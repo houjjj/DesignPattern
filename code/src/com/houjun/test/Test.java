@@ -8,4 +8,5 @@ public class Test {
 
     private String hello;
     private String world;
+    private String china;
 }
